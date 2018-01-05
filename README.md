@@ -39,7 +39,7 @@ __BA at University of Sydney (2009-2013)__
 Have a look at my [portfolio](https://github.com/parkhabit/portfolio)
 
 ## Contact
-parkhabit@gmail.com | [LinkedIn]()
+parkhabit@gmail.com | [LinkedIn](https://www.linkedin.com/in/kitty-allen-970014a0/)
 
 ## Interests
 * Learning
