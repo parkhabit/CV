@@ -38,13 +38,12 @@ __MA Archaeology 2:1 University of Sydney (2013-2014)__
 __BA at University of Sydney (2009-2013)__
 
 ## Projects
-Have a look at my [portfolio](https://github.com/parkhabit/portfolio)
+Have a look at my [portfolio](https://parkhabit.github.io/portfolio/)
 
 ## Contact
-parkhabit@gmail.com | [LinkedIn](https://www.linkedin.com/in/kitty-allen-970014a0/)
+parkhabit@gmail.com || [LinkedIn](https://www.linkedin.com/in/kitty-allen-970014a0/)
 
 ## Interests
 * Learning
 * Archaeology
-* finTech
 * Tech for Good
