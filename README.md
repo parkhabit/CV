@@ -11,12 +11,14 @@ Happiest in environments which offer plentiful opportunities for learning, devel
 ## Technologies
 
 
-| Languages       | Frameworks/Libraries  | Testing       | Databases  | Design   | Tools/Others     |
-| --------------- | --------------------- | ------------- | ---------- | -------- | ---------------- |
-| JavaScript      | Node.js               | TDD with Tape | PostgreSQL | Invision | Git & GitHub     |
-| HTML5           | Express.js            | Travis CI     |            | Figma    | Heroku           |
-| CSS3            | Handlebars            | CodeCov       |            | Sketch   | Accessibility    |
-| Markdown        |                       | QUnit         |            |          | User Testing     |
+| Languages       | Frameworks/Libraries  | Testing       | Databases  | Design   | Tools            | Other            |
+| --------------- | --------------------- | ------------- | ---------- | -------- | ---------------- |------------------|
+| JavaScript      | Node.js               | Tape          | PostgreSQL | Invision | Git & GitHub     | Accessibility    |
+| HTML5           | Express.js            | Travis CI     |            | Figma    | Heroku           | User Testing     |
+| CSS3            | Handlebars            | CodeCov       |            | Sketch   | Babel            | Agile(scrum)     |
+| Markdown        | Tachyons              | QUnit         |            |          |                  | Pair Programming |
+| Elm             | Sass                  |               |            |          |                  |                  |
+|                 | React.js              |               |            |          |                  |                  |
 
 
 ## Education
